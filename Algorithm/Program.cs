@@ -5,8 +5,8 @@ namespace Algorithm;
     {
     public static void Main(string[] args)
     {
-        InsertionSort insertion = new InsertionSort();
-        insertion.CheckSorting();
+        BubbleSort bubble = new BubbleSort();
+        bubble.Sorting();
     }
  }
 
